@@ -1,0 +1,9 @@
+/.venv
+
+# Ecommerce Website 
+products.csv
+products.json
+
+# Anime List Website
+animes.json
+animes_urls.json
